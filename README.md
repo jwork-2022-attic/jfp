@@ -16,4 +16,4 @@
 - 课程感言（对课程形式、内容等方面提出具体的意见和建议）
 - 等
 
-请使用《中国科学》的[latex模板](http://scis.scichina.com/download/ssi-template.zip)进行排版（不少于6页），输出pdf文件提交。
+请使用《中国科学》的[latex模板](http://scis.scichina.com/download/ssi-template.zip)进行排版，**要求正文文字不少于5000字（图和表不计），输出pdf文件提交**。
